@@ -13,12 +13,9 @@ title: Tópico 03 - Demonstrações
 : [**Dedução Natural**]({{ site.baseurl }}{% link _lessons/03-proofs/proofs.md %})
   : [Slides]({{ site.baseurl }}{% link _lessons/03-proofs/05-proofs-nd.pdf %})
 
-13 Abr
+13, 15 Abr
 : [**Métodos de demonstração**]({{ site.baseurl }}{% link _lessons/03-proofs/proofs.md %})
   : [Slides]({{ site.baseurl }}{% link _lessons/03-proofs/06-proofs.pdf %})
-
-15 Abr
-: Aula de dúvidas
 
 18 Abr
 : Prova 1
@@ -26,4 +23,5 @@ title: Tópico 03 - Demonstrações
 20 Abr
 : Sem aula
 
-
+22 Abr
+: **Resolução via SMT e ITPs**
