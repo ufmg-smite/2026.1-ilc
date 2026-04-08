@@ -24,4 +24,4 @@ title: Tópico 03 - Demonstrações
 : Sem aula
 
 22 Abr
-: **Resolução via SMT e ITPs**
+: Resolução via SMT e ITPs
