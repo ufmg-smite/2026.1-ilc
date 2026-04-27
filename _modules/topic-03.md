@@ -24,4 +24,5 @@ title: Tópico 03 - Demonstrações
 : Sem aula
 
 22 Abr
-: Resolução via SMT e ITPs
+: [**Resolução via SMT e ITPs**]({{ site.baseurl }}{% link _lessons/03-proofs/proofs.md %})
+  : [Slides]({{ site.baseurl }}{% link _lessons/03-proofs/07-ar.pdf %})
